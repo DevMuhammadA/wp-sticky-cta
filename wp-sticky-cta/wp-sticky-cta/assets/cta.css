@@ -1,0 +1,14 @@
+/* Sticky CTA styles */
+.at-sticky-cta {
+  position: sticky;
+  top: 24px;
+  margin: 0 auto;
+  box-shadow: var(--card-shadow, 0 8px 24px rgba(0,0,0,.12));
+  border-radius: 12px;
+  overflow: hidden;
+}
+.at-sticky-cta img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
